@@ -1,4 +1,4 @@
-# s-stack
+# source-error
 
 [English Documentation](./README.en.md)
 
@@ -9,13 +9,13 @@
 安装:
 
 ```
-npm install s-stack -g
+npm install source-error -g
 ```
 
 使用:
 
 ```
-s-stack [options]
+source-error [options]
 ```
 
 ## 参数

@@ -1,17 +1,18 @@
 {
-  "name": "s-stack",
+  "name": "source-error",
   "version": "0.1.0",
   "description": "To see the original information of JavaScript error through map file.",
   "main": "lib/index.js",
-  "bin": "bin/s-stack.js",
+  "bin": "bin/source-error.js",
   "author": "senntyou <jiangjinbelief@163.com>",
-  "homepage": "https://github.com/senntyou/s-stack",
+  "homepage": "https://github.com/senntyou/source-error",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/senntyou/s-stack"
+    "url": "https://github.com/senntyou/source-error"
   },
   "keywords": [
+    "source",
     "error",
     "stack",
     "map",
@@ -19,7 +20,7 @@
     "tool"
   ],
   "bugs": {
-    "url": "https://github.com/senntyou/s-stack/issues"
+    "url": "https://github.com/senntyou/source-error/issues"
   },
   "readmeFilename": "README.md",
   "files": [

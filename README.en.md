@@ -1,4 +1,4 @@
-# s-stack
+# source-error
 
 [中文文档](./README.md)
 
@@ -9,13 +9,13 @@ To see the original information of JavaScript error through map file.
 Install:
 
 ```
-npm install s-stack -g
+npm install source-error -g
 ```
 
 Usage:
 
 ```
-s-stack [options] <dir> [extraDirs...]
+source-error [options] <dir> [extraDirs...]
 ```
 
 ## options
